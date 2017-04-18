@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pg-1.54.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/pg/1.54.0.0/19307dbe2f1563e50b631e1fac9dee974934f415/pg-1.54.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/pg/1.54.0.0/ede47a073d0cff9cabfa86920f5b23e20b88ff4d/pg-1.54.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

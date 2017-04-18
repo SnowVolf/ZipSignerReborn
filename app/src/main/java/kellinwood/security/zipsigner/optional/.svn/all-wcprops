@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional
+END
+JksKeyStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/JksKeyStore.java
+END
+CertCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/CertCreator.java
+END
+KeyStoreFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/KeyStoreFileManager.java
+END
+SignatureBlockGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/SignatureBlockGenerator.java
+END
+LoadKeystoreException.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/LoadKeystoreException.java
+END
+DistinguishedNameValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/DistinguishedNameValues.java
+END
+Fingerprint.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/Fingerprint.java
+END
+JKS.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/JKS.java
+END
+KeyNameConflictException.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/KeyNameConflictException.java
+END
+PasswordObfuscator.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/PasswordObfuscator.java
+END
+CustomKeySigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/451/zipsigner-lib-optional/tags/zipsigner-lib-optional-1.17/src/main/java/kellinwood/security/zipsigner/optional/CustomKeySigner.java
+END

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="kellinwood.zipsigner4">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application android:icon="@drawable/icon"
+                 android:label="@string/app_name"
+                 android:theme="@style/DeviceDefault"
+        >
+        <activity android:name="kellinwood.zipsigner4.ZipPickerActivity"
+                  android:label="@string/app_name"
+                  android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="kellinwood.zipsigner4.ZipSignerActivity"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="kellinwood.zipsigner.action.SIGN_FILE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="kellinwood.zipsigner4.customkeys.ManageKeysActivity"
+                  android:label="@string/app_name"
+                  android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="kellinwood.zipsigner.action.MANAGE_KEYS" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>        
+        <activity android:name="kellinwood.zipsigner4.filebrowser.AndroidFileBrowser"
+                  android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="kellinwood.zipsigner.action.BROWSE_FILE" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="kellinwood.zipsigner4.customkeys.ManageKeysHelpActivity"
+                  android:label="@string/app_name"/>
+        <activity android:name="kellinwood.zipsigner4.customkeys.CreateKeystoreIntroActivity"
+                  android:label="@string/app_name"/>
+        <activity android:name="kellinwood.zipsigner4.customkeys.CreateKeystoreFormActivity"
+                  android:label="@string/app_name"
+                  android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="kellinwood.zipsigner4.customkeys.CreateKeyFormActivity"
+                  android:label="@string/app_name"
+                  android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="kellinwood.zipsigner4.customkeys.CreateCertFormActivity"
+                  android:label="@string/app_name"
+                  android:windowSoftInputMode="stateHidden"/>
+        <activity android:name="kellinwood.zipsigner4.customkeys.KeysPropertiesActivity"
+                  android:label="@string/app_name"
+                  android:windowSoftInputMode="stateHidden"/>
+    </application>
+</manifest>

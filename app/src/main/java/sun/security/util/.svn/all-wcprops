@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util
+END
+BigInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/BigInt.java
+END
+BitArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/BitArray.java
+END
+Resources_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_de.java
+END
+Resources_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_sv.java
+END
+AuthResources_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_es.java
+END
+Resources_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_ja.java
+END
+ManifestEntryVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/ManifestEntryVerifier.java
+END
+AuthResources_ko.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_ko.java
+END
+ByteArrayTagOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/ByteArrayTagOrder.java
+END
+AuthResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources.java
+END
+ManifestDigester.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/ManifestDigester.java
+END
+SignatureFileVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/SignatureFileVerifier.java
+END
+Resources_es.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_es.java
+END
+Resources_ko.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_ko.java
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Cache.java
+END
+DerInputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/DerInputStream.java
+END
+DerValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/DerValue.java
+END
+AuthResources_zh_TW.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_zh_TW.java
+END
+DerOutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/DerOutputStream.java
+END
+ByteArrayLexOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/ByteArrayLexOrder.java
+END
+Resources.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources.java
+END
+AuthResources_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_zh_CN.java
+END
+ResourcesMgr.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/ResourcesMgr.java
+END
+AuthResources_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_fr.java
+END
+DerInputBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/DerInputBuffer.java
+END
+Resources_zh_TW.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_zh_TW.java
+END
+Debug.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Debug.java
+END
+PathList.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/PathList.java
+END
+AuthResources_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_it.java
+END
+Resources_zh_CN.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_zh_CN.java
+END
+Resources_fr.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_fr.java
+END
+PendingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/PendingException.java
+END
+SecurityConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/SecurityConstants.java
+END
+AuthResources_de.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_de.java
+END
+AuthResources_sv.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_sv.java
+END
+Resources_it.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/Resources_it.java
+END
+AuthResources_ja.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/AuthResources_ja.java
+END
+DerIndefLenConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/DerIndefLenConverter.java
+END
+ObjectIdentifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/ObjectIdentifier.java
+END
+DerEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/65/android-sun-jarsign-support/tags/android-sun-jarsign-support-1.1/src/main/java/sun/security/util/DerEncoder.java
+END

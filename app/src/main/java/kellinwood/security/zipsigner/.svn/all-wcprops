@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner
+END
+DefaultResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/DefaultResourceAdapter.java
+END
+AutoKeyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/AutoKeyException.java
+END
+ZipSignature.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/ZipSignature.java
+END
+ProgressHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/ProgressHelper.java
+END
+Base64.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/Base64.java
+END
+KeySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/KeySet.java
+END
+HexEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/HexEncoder.java
+END
+ProgressEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/ProgressEvent.java
+END
+ResourceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/ResourceAdapter.java
+END
+ProgressListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/ProgressListener.java
+END
+HexDumpEncoder.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/HexDumpEncoder.java
+END
+ZipSigner.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/439/zipsigner-lib/tags/zipsigner-lib-1.17/src/main/java/kellinwood/security/zipsigner/ZipSigner.java
+END
